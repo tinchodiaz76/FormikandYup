@@ -1,0 +1,3 @@
+1.-npm i formik --save
+2.-npm i yup --save
+
